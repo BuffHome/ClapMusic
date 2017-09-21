@@ -1,8 +1,8 @@
 # ClapMusic
 
-Language: Python 3
-Dependencies: PyMusic, Vlc, Python3-Vlc
+Language: Python 3 <br />
+Dependencies: PyMusic, Vlc, Python3-Vlc <br />
 
-Clap to play/pause music
-2 claps -> play/pause
-3 claps -> next song
+Clap to play/pause music <br />
+2 claps -> play/pause <br />
+3 claps -> next song <br />
